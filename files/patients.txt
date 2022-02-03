@@ -1,0 +1,1 @@
+vidhi,r,vidih,a,b,c,d,80,false,150.0,70.0,21.520408163265305,false,true,true,nasal and sinus cancer,No disease diagnosed,No disease diagnosed
