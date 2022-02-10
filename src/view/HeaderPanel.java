@@ -1,8 +1,7 @@
 /*
  * Name: Vidhi Ruparel
  * Date: January 18, 2021
- * Course: ICS4U1-02 Mr. Fernandes
- * Description: This is the header panel, which creates a header for all frames
+ * Description: This is the header panel, which creates a header for all frames.
  */
 package view;
 
