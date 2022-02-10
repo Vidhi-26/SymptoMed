@@ -1,11 +1,7 @@
 /*
  * Name: Vidhi Ruparel
- * 
- * Date of submission: January 18, 2022
- * 
- * Course Code: ICS4U1-03 Mr. Fernandes
- * 
- * Title: Final Summative Project, Symptom Checker Application, SYMPTOMED
+ *
+ * Title: SYMPTOMED
  * 
  * Description: This application will assist users in finding the most likely disease or disorder they have. 
  * Users choose the body part with their most severe symptom and are prompted with a list of auto-generated
@@ -13,7 +9,6 @@
  * The ultimate goal is to make a software program that people would truly find useful for diagnosis and 
  * detection of diseases they have, so that patients are aware and informed before they go to doctors for further 
  * diagnosis and treatment. 
-
  * 
  * Features: 
  * 1. GUI: The program runs as a GUI, and the GUI is well-designed, functional, attractive, and easy to use.
@@ -36,17 +31,7 @@
  * Areas of concern: 
  * 1. files used: patients.txt to store users
  *  			  finalDiseases.csv to store database of diseases (symptoms, about, causes, treatments, links)
- *  
- * 2. The scroll panel does not load for the symptoms and disease information panels, so to solve the same, 
- * the user is warned beforehand that the scrolling feature is still is development.
- * 
- * 3. Sometimes, no diseases are diagnosed. For example, for a body part like breast, there is only one symptom in the Diseases data. 
- * It is highly likely that breast cancer was removed from consideration due to factors like age, bmi, and gender, thus it might not show up
- * unless the user enters highly specific information to breast cancer.
- * 
- * 4. As an extra feature, if I had more time, a button that allows the user to exit the symptom checker at any time 
- * was to be implemented.
- * 
+ *
  */
 
 
