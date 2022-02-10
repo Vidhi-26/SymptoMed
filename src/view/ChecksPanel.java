@@ -1,7 +1,6 @@
 /*
  * Name: Vidhi Ruparel
  * Date: January 10, 2022
- * Course: ICS4U1 Mr. Fernandes
  * Notes:
  * Cite: Katherine Chun's paintComponent method to create checks pattern
  */
