@@ -14,5 +14,8 @@ Major skills used include a variety of data structures (Linked List, HashMap, Se
 
 ![login-image](https://github.com/Vidhi-26/SymptoMed/blob/main/screenshots/login.png?raw=true)
 
+### Choose where you experience symptoms
+![body-list-image](https://github.com/Vidhi-26/SymptoMed/blob/main/screenshots/body-parts-list.png?raw=true)
+
 ### Choose Symptoms
-![body-list-image](https://github.com/Vidhi-26/SymptoMed/blob/main/screenshots/symptoms-list-demo.png?raw=true)
+![symptoms-list-image](https://github.com/Vidhi-26/SymptoMed/blob/main/screenshots/symptoms-list-demo.png?raw=true)
